@@ -1,0 +1,56 @@
+      
+.coolTitle {
+    text-align: center;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-size: 40px;
+    transform: skewY(-10deg);
+    letter-spacing: 4px;
+    word-spacing: -8px;
+    color: tomato;
+    text-shadow: 
+      -1px -1px 0 firebrick,
+      -2px -2px 0 firebrick,
+      -3px -3px 0 firebrick,
+      -4px -4px 0 firebrick,
+      -5px -5px 0 firebrick,
+      -6px -6px 0 firebrick,
+      -7px -7px 0 firebrick,
+      -8px -8px 0 firebrick,
+      -30px 20px 40px dimgrey;
+  }
+  
+  li {
+    color: #fff;
+    margin-left: 200px;
+    font-size: 25px;
+  }
+  
+  h1, p {
+    color:#82df5d;
+    margin-left: 200px;
+    font-size: 35px;
+  }
+  
+  button {
+    color: #fff; 
+    background: #82df5d;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  body {
+    background-image: url("https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+    background-size: cover;
+  }
+  
+  input {
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 200px;
+  }
+   
+  
+  .done {
+    text-decoration: line-through #ff3c3c;
+  }
+  
